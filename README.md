@@ -5,8 +5,7 @@ The tools used in this Project: nodejs, rest api, ue5, va Rest and Widgets.
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3ba3fdfc-b1c1-4427-abb3-16ebbcbf541f" />
 
-
-I made a local server trough nodejs with a code for a todo list and with the help of va Rest plugin for the Unreal Engine I implementet its api to the engine and made a code with blueprints and widgets to show the todo list ingame with the ability to add new todos to the list and chaning already existing ones.
+a local server is made trough nodejs with a code for a todo list and with the help of va Rest plugin for the Unreal Engine it implementet its api to the engine and made a code with blueprints and widgets to show the todo list ingame with the ability to add new todos to the list and chaning already existing ones.
 
 
 <img width="612" height="453" alt="image" src="https://github.com/user-attachments/assets/d6021092-81c6-4b36-ac43-e2349e548797" />
